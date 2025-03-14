@@ -3,6 +3,8 @@
 /* Import declaration to use Google Fonts - check https://fonts.google.com/ for details */
 @import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;1,400;1,700&display=swap');
 
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Moonrocks&display=swap');
+
 /* Styles for the body */
 
 body {
@@ -15,6 +17,7 @@ body {
 
 .resume-header {
     background-color: #e0f0ff;
+	font-family: "Rubik Moonrocks", sans-serif;
 }
 
 .resume-main {
@@ -49,3 +52,9 @@ body {
 	height: 1em;
 	flex-basis: 1.4em;
 }
+
+.my-special-font {
+	 font-family: "Delius", cursive;
+}
+
+/* my comments */
